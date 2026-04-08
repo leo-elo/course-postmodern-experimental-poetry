@@ -1,274 +1,239 @@
-# Auto-generated navigation
 - slug: "nyc-trip-alternate-assignments"
   title: "NYC Trip & Alternate Assignments"
-  type: page
+  type: "page"
   banner: "uploads/sites/7/2025/02/1024px-Times_Square_New_York_City_HDR.jpg"
-
 - slug: "research-paper"
   title: "Research Paper or Creative Final Project"
-  type: page
-
+  type: "page"
 - slug: "essay-1-poetics-in-practice"
   title: "Short Essay: Poetics in Practice"
-  type: page
+  type: "page"
   banner: "uploads/sites/7/2021/02/iStock_000025643492_Small.jpg"
-
-- slug: "hello-world"
-  title: "Week 1: Poetry before Postmodernism"
-  type: post
-  date: "2021-01-19"
-  banner: "uploads/sites/7/2021/01/4795flyer.png"
-  categories: ["Uncategorized"]
-
-- slug: "week-2-the-black-mountain-poets"
-  title: "Week 2: The Black Mountain Poets"
-  type: post
-  date: "2021-01-26"
-  banner: "uploads/sites/7/2021/01/Screen-Shot-2021-01-25-at-10.21.30-PM.png"
-  categories: ["Uncategorized"]
-
-- slug: "week-3-san-francisco-renaissance-and-beat-poets"
-  title: "Week 3: San Francisco Renaissance and Beat Poets"
-  type: post
-  date: "2021-02-02"
-  banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-02-at-1.52.02-AM.png"
-  categories: ["Uncategorized"]
-
-- slug: "confessional-poetry"
-  title: "Week 4: Confessional Poetry"
-  type: post
-  date: "2021-02-09"
-  banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-09-at-8.25.04-AM.png"
-  categories: ["Uncategorized"]
-
-- slug: "weeks-5-6-post-confessional-poetry"
-  title: "Weeks 5 & 6: Post-Confessional Poetry"
-  type: post
-  date: "2021-02-16"
-  banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-16-at-8.02.39-AM.png"
-  categories: ["Uncategorized"]
-
-- slug: "week-7-black-arts-movement"
-  title: "Week 7: Black Arts Movement"
-  type: post
-  date: "2021-03-02"
-  banner: "uploads/sites/7/2021/03/Screen-Shot-2021-03-02-at-7.01.21-AM.png"
-  categories: ["Uncategorized"]
-
-- slug: "new-york-school-and-language-poetry"
-  title: "Week 8: New York School and Language Poetry"
-  type: post
-  date: "2021-03-09"
-  banner: "uploads/sites/7/2021/03/Screen-Shot-2021-03-09-at-8.43.32-AM.png"
-  categories: ["Uncategorized"]
-
-- slug: "week-9-recorded-poetry"
-  title: "Week 9: Recorded and Performance Poetry"
-  type: post
-  date: "2021-03-16"
-  banner: "uploads/sites/7/2021/03/album-covers.png"
-  categories: ["Uncategorized"]
-
-- slug: "week-10-multimodal-poetry"
-  title: "Week 10: Multimodal Poetry"
-  type: post
-  date: "2021-03-23"
-  banner: "uploads/sites/7/2021/03/week10.png"
-  categories: ["Uncategorized"]
-
-- slug: "week-11-videopoetry"
-  title: "Week 11: Videopoetry"
-  type: post
-  date: "2021-03-30"
-  banner: "uploads/sites/7/2021/03/right-action.gif"
-  categories: ["Uncategorized"]
-
-- slug: "week-12-concrete-poetry"
-  title: "Week 12: Concrete Poetry"
-  type: post
-  date: "2021-04-06"
-  banner: "uploads/sites/7/2021/04/forsythia.jpg"
-  categories: ["Uncategorized"]
-
-- slug: "week-13-sound-and-conceptual-poetry"
-  title: "Week 13: Sound and Conceptual Poetry"
-  type: post
-  date: "2021-04-11"
-  banner: "uploads/sites/7/2021/04/Centmille.jpg"
-  categories: ["Uncategorized"]
-
-- slug: "week-14-e-poetry"
-  title: "Week 14: E-Poetry"
-  type: post
-  date: "2021-04-20"
-  banner: "uploads/sites/7/2021/04/First-Screening-Code-Poem.png"
-  categories: ["Uncategorized"]
-
-- slug: "week-15-wrapping-up"
-  title: "Week 15: Digital Poetry"
-  type: post
-  date: "2021-04-27"
-  banner: "uploads/sites/7/2021/04/Jason-Choice.png"
-  categories: ["Uncategorized"]
-
-- slug: "spring-2023-course-promo"
-  title: "Spring 2023 Course Promo"
-  type: post
-  date: "2022-10-12"
-  banner: "uploads/sites/7/2022/10/Screen-Shot-2022-10-11-at-12.53.57-PM.png"
-  categories: ["Uncategorized"]
-
-- slug: "week-1-previously-on-american-poetry"
-  title: "Week 1: Previously, on American Poetry"
-  type: post
-  date: "2023-01-18"
-  banner: "uploads/sites/7/2023/01/Poe-Whitman-Dickinson.png"
-  categories: ["Posts"]
-
-- slug: "week-2-modernism-and-the-black-mountain-poets"
-  title: "Week 2: Modernism and the Black Mountain Poets"
-  type: post
-  date: "2023-01-23"
-  banner: "uploads/sites/7/2023/01/pound-hughes-eliot-williams-stein.png"
-  categories: ["Posts"]
-
-- slug: "week-3-san-francisco-and-beat-poets"
-  title: "Week 3: San Francisco and Beat Poets"
-  type: post
-  date: "2023-01-30"
-  banner: "uploads/sites/7/2023/01/220725_snyder_banner2.jpg"
-  categories: ["Posts"]
-
-- slug: "week-4-confessional-poetry"
-  title: "Week 4: Confessional Poetry"
-  type: post
-  date: "2023-02-06"
-  banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-09-at-8.25.04-AM.png"
-  categories: ["Posts"]
-
-- slug: "weeks-5-6-post-confessional-poets"
-  title: "Weeks 5 & 6: Post Confessional Poets"
-  type: post
-  date: "2023-02-13"
-  banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-16-at-8.02.39-AM.png"
-  categories: ["Posts"]
-
-- slug: "167"
-  title: "Week 7: Black Arts Movement"
-  type: post
-  date: "2023-02-27"
-  banner: "uploads/sites/7/2021/03/Screen-Shot-2021-03-02-at-7.01.21-AM.png"
-  categories: ["Uncategorized"]
-
-- slug: "week-8-new-york-poets-and-language-poets"
-  title: "Week 8: New York Poets and L=A=N=G=U=A=G=E Poets"
-  type: post
-  date: "2023-03-06"
-  banner: "uploads/sites/7/2021/03/Screen-Shot-2021-03-09-at-8.43.32-AM.png"
-  categories: ["Posts"]
-
-- slug: "weeks-9-10-recorded-and-performance-poetry"
-  title: "Weeks 9 & 10: Recorded and Performance Poetry"
-  type: post
-  date: "2023-03-20"
-  banner: "uploads/sites/7/2021/03/week10.png"
-  categories: ["Posts"]
-
-- slug: "weeks-11-12-poetry-as-video-visual-sound-art"
-  title: "Weeks 11-12: Poetry as Video, Visual, Sound Art"
-  type: post
-  date: "2023-04-03"
-  banner: "uploads/sites/7/2021/04/forsythia.jpg"
-  categories: ["Posts"]
-
-- slug: "weeks-13-14-conceptual-and-digital-poetry"
-  title: "Weeks 13-14: Conceptual and Digital Poetry"
-  type: post
-  date: "2023-04-17"
-  banner: "uploads/sites/7/2021/04/Jason-Choice.png"
-  categories: ["Posts"]
-
-- slug: "week-15-poetry-today"
-  title: "Week 15: Poetry Today"
-  type: post
-  date: "2023-05-01"
-  banner: "uploads/sites/7/2023/05/Screenshot-2023-05-07-at-6.29.16-PM.png"
-  categories: ["Posts"]
-
+- type: "header"
+  term: "Spring 2025"
 - slug: "week-1-previously-on-american-poetry-2"
   title: "Week 1: Previously on American Poetry"
-  type: post
+  type: "post"
   date: "2025-01-13"
   banner: "uploads/sites/7/2025/01/4795-Flyer-Flores1.png"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "week-2-the-black-mountain-school"
   title: "Week 2: The Black Mountain School"
-  type: post
+  type: "post"
   date: "2025-01-21"
   banner: "uploads/sites/7/2025/01/Untitled-design.png"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "week-3-san-francisco-beat-and-deep-image-poets"
   title: "Week 3: San Francisco, Beat, and Deep Image Poets"
-  type: post
+  type: "post"
   date: "2025-01-27"
   banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-02-at-1.52.02-AM.png"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "weeks-4-5-confessional-and-post-confessional-poetry"
   title: "Weeks 4 & 5: Confessional and Post-Confessional Poetry"
-  type: post
+  type: "post"
   date: "2025-02-03"
   banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-09-at-8.25.04-AM.png"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "week-6-new-york-school"
   title: "Week 6: New York School"
-  type: post
+  type: "post"
   date: "2025-02-17"
   banner: "uploads/sites/7/2025/02/4-2-13_Berskon.jpg"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "languagepoetry"
   title: "Week 7: Language Poetry"
-  type: post
+  type: "post"
   date: "2025-02-24"
   banner: "uploads/sites/7/2025/02/bernstein_howe.gif"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "week-8-black-arts-movement"
   title: "Week 8: Black Arts Movement"
-  type: post
+  type: "post"
   date: "2025-03-03"
   banner: "uploads/sites/7/2021/03/Screen-Shot-2021-03-02-at-7.01.21-AM.png"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "weeks-9-10-poetry-as-audio-and-video-performances"
   title: "Weeks 9 & 10: Poetry as Audio and Video Performances"
-  type: post
+  type: "post"
   date: "2025-03-17"
   banner: "uploads/sites/7/2021/03/week10.png"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "weeks-11-12-sound-concrete-and-digital-poetry"
   title: "Weeks 11 & 12:  Sound, Concrete, and Digital Poetry"
-  type: post
+  type: "post"
   date: "2025-03-31"
   banner: "uploads/sites/7/2021/04/forsythia.jpg"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "weeks-13-14-e-poetry"
   title: "Weeks 13-14: E-Poetry"
-  type: post
+  type: "post"
   date: "2025-04-14"
   banner: "uploads/sites/7/2021/04/Screen-Shot-2021-04-26-at-9.21.11-PM.png"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
 - slug: "week-15-poetry-today-2"
   title: "Week 15: Poetry Today"
-  type: post
+  type: "post"
   date: "2025-04-28"
   banner: "uploads/sites/7/2025/04/elc4screenshot.png"
-  categories: ["Posts"]
-
+  categories: "[\"Posts\"]"
+- type: "header"
+  term: "Spring 2023"
+- slug: "spring-2023-course-promo"
+  title: "Spring 2023 Course Promo"
+  type: "post"
+  date: "2022-10-12"
+  banner: "uploads/sites/7/2022/10/Screen-Shot-2022-10-11-at-12.53.57-PM.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-1-previously-on-american-poetry"
+  title: "Week 1: Previously, on American Poetry"
+  type: "post"
+  date: "2023-01-18"
+  banner: "uploads/sites/7/2023/01/Poe-Whitman-Dickinson.png"
+  categories: "[\"Posts\"]"
+- slug: "week-2-modernism-and-the-black-mountain-poets"
+  title: "Week 2: Modernism and the Black Mountain Poets"
+  type: "post"
+  date: "2023-01-23"
+  banner: "uploads/sites/7/2023/01/pound-hughes-eliot-williams-stein.png"
+  categories: "[\"Posts\"]"
+- slug: "week-3-san-francisco-and-beat-poets"
+  title: "Week 3: San Francisco and Beat Poets"
+  type: "post"
+  date: "2023-01-30"
+  banner: "uploads/sites/7/2023/01/220725_snyder_banner2.jpg"
+  categories: "[\"Posts\"]"
+- slug: "week-4-confessional-poetry"
+  title: "Week 4: Confessional Poetry"
+  type: "post"
+  date: "2023-02-06"
+  banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-09-at-8.25.04-AM.png"
+  categories: "[\"Posts\"]"
+- slug: "weeks-5-6-post-confessional-poets"
+  title: "Weeks 5 & 6: Post Confessional Poets"
+  type: "post"
+  date: "2023-02-13"
+  banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-16-at-8.02.39-AM.png"
+  categories: "[\"Posts\"]"
+- slug: "167"
+  title: "Week 7: Black Arts Movement"
+  type: "post"
+  date: "2023-02-27"
+  banner: "uploads/sites/7/2021/03/Screen-Shot-2021-03-02-at-7.01.21-AM.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-8-new-york-poets-and-language-poets"
+  title: "Week 8: New York Poets and L=A=N=G=U=A=G=E Poets"
+  type: "post"
+  date: "2023-03-06"
+  banner: "uploads/sites/7/2021/03/Screen-Shot-2021-03-09-at-8.43.32-AM.png"
+  categories: "[\"Posts\"]"
+- slug: "weeks-9-10-recorded-and-performance-poetry"
+  title: "Weeks 9 & 10: Recorded and Performance Poetry"
+  type: "post"
+  date: "2023-03-20"
+  banner: "uploads/sites/7/2021/03/week10.png"
+  categories: "[\"Posts\"]"
+- slug: "weeks-11-12-poetry-as-video-visual-sound-art"
+  title: "Weeks 11-12: Poetry as Video, Visual, Sound Art"
+  type: "post"
+  date: "2023-04-03"
+  banner: "uploads/sites/7/2021/04/forsythia.jpg"
+  categories: "[\"Posts\"]"
+- slug: "weeks-13-14-conceptual-and-digital-poetry"
+  title: "Weeks 13-14: Conceptual and Digital Poetry"
+  type: "post"
+  date: "2023-04-17"
+  banner: "uploads/sites/7/2021/04/Jason-Choice.png"
+  categories: "[\"Posts\"]"
+- slug: "week-15-poetry-today"
+  title: "Week 15: Poetry Today"
+  type: "post"
+  date: "2023-05-01"
+  banner: "uploads/sites/7/2023/05/Screenshot-2023-05-07-at-6.29.16-PM.png"
+  categories: "[\"Posts\"]"
+- type: "header"
+  term: "Spring 2021"
+- slug: "hello-world"
+  title: "Week 1: Poetry before Postmodernism"
+  type: "post"
+  date: "2021-01-19"
+  banner: "uploads/sites/7/2021/01/4795flyer.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-2-the-black-mountain-poets"
+  title: "Week 2: The Black Mountain Poets"
+  type: "post"
+  date: "2021-01-26"
+  banner: "uploads/sites/7/2021/01/Screen-Shot-2021-01-25-at-10.21.30-PM.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-3-san-francisco-renaissance-and-beat-poets"
+  title: "Week 3: San Francisco Renaissance and Beat Poets"
+  type: "post"
+  date: "2021-02-02"
+  banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-02-at-1.52.02-AM.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "confessional-poetry"
+  title: "Week 4: Confessional Poetry"
+  type: "post"
+  date: "2021-02-09"
+  banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-09-at-8.25.04-AM.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "weeks-5-6-post-confessional-poetry"
+  title: "Weeks 5 & 6: Post-Confessional Poetry"
+  type: "post"
+  date: "2021-02-16"
+  banner: "uploads/sites/7/2021/02/Screen-Shot-2021-02-16-at-8.02.39-AM.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-7-black-arts-movement"
+  title: "Week 7: Black Arts Movement"
+  type: "post"
+  date: "2021-03-02"
+  banner: "uploads/sites/7/2021/03/Screen-Shot-2021-03-02-at-7.01.21-AM.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "new-york-school-and-language-poetry"
+  title: "Week 8: New York School and Language Poetry"
+  type: "post"
+  date: "2021-03-09"
+  banner: "uploads/sites/7/2021/03/Screen-Shot-2021-03-09-at-8.43.32-AM.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-9-recorded-poetry"
+  title: "Week 9: Recorded and Performance Poetry"
+  type: "post"
+  date: "2021-03-16"
+  banner: "uploads/sites/7/2021/03/album-covers.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-10-multimodal-poetry"
+  title: "Week 10: Multimodal Poetry"
+  type: "post"
+  date: "2021-03-23"
+  banner: "uploads/sites/7/2021/03/week10.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-11-videopoetry"
+  title: "Week 11: Videopoetry"
+  type: "post"
+  date: "2021-03-30"
+  banner: "uploads/sites/7/2021/03/right-action.gif"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-12-concrete-poetry"
+  title: "Week 12: Concrete Poetry"
+  type: "post"
+  date: "2021-04-06"
+  banner: "uploads/sites/7/2021/04/forsythia.jpg"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-13-sound-and-conceptual-poetry"
+  title: "Week 13: Sound and Conceptual Poetry"
+  type: "post"
+  date: "2021-04-11"
+  banner: "uploads/sites/7/2021/04/Centmille.jpg"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-14-e-poetry"
+  title: "Week 14: E-Poetry"
+  type: "post"
+  date: "2021-04-20"
+  banner: "uploads/sites/7/2021/04/First-Screening-Code-Poem.png"
+  categories: "[\"Uncategorized\"]"
+- slug: "week-15-wrapping-up"
+  title: "Week 15: Digital Poetry"
+  type: "post"
+  date: "2021-04-27"
+  banner: "uploads/sites/7/2021/04/Jason-Choice.png"
+  categories: "[\"Uncategorized\"]"
